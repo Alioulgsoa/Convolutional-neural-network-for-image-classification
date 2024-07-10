@@ -1,4 +1,6 @@
-# Convolutional-neural-network-for-image-classification
+# Classification d'Images avec un Réseau de Neurones Convolutifs (CNN)
+
+Ce projet a pour objectif de créer et d’entraîner un réseau de neurones convolutifs (CNN) pour la classification d’images en utilisant les bibliothèques TensorFlow et Keras. Le modèle sera entraîné pour différencier entre deux classes d’images : Homer et Bart Simpson. Le projet suit une série d'étapes allant de la préparation des données à l'entraînement du modèle.
 Le fichier Jupyter Notebook contient du code pour la création et l'entraînement d'un réseau de neurones convolutifs (CNN) pour la classification d'images.
 
 # 1. Importation des Bibliothèques
